@@ -1,8 +1,8 @@
 <template>
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <h1 class="title text-center">Nuxt — Tailwind — Netlify CMS</h1>
-      <h2 class="subtitle text-center">Boilerplate</h2>
+      <h1 class="title text-center">Full Stack Web Developer — Android Developer — Part Time Gamer</h1>
+      <h2 class="subtitle text-center">Ibnu Raffi</h2>
     </section>
 
     <section class="mt-8">
