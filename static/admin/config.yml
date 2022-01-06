@@ -65,8 +65,8 @@ collections:
           label: 'Project Category',
           name: 'category',
           widget: 'select',
-          default: 'animals',
-          options: [{ label: 'Animals', value: 'animals' }, { label: 'Food', value: 'food' }],
+          default: 'website',
+          options: [{ label: 'Animals', value: 'animals' }, { label: 'Food', value: 'food' }, { label: 'Website', value: 'website' }, { label: 'Android', value: 'android' }],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
