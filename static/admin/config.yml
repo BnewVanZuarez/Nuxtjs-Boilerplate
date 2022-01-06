@@ -66,7 +66,7 @@ collections:
           name: 'category',
           widget: 'select',
           default: 'website',
-          options: [{ label: 'Animals', value: 'animals' }, { label: 'Food', value: 'food' }, { label: 'Website', value: 'website' }, { label: 'Android', value: 'android' }],
+          options: [{ label: 'Website', value: 'website' }, { label: 'Android', value: 'android' }, { label: 'Web App', value: 'webapp' }],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
