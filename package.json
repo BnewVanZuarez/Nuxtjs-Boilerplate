@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "ibnu-raffi",
   "version": "2.1.2",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
+  "description": "Blog untuk menyimpan catatan pribadi",
+  "author": "Ibnu Raffi <ibnu.raffy@gmail.com> (https://ibnuraffi.netlify.app/)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
